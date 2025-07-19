@@ -9,4 +9,5 @@
 * [(todo)lab-4：API层](Chapter4/README.md)
 * [(todo)lab-5：前端页面](Chapter4/README.md)
 * [附录：Git教程与规范](附录/README.md)
-  
+    * [技能提升指南](附录/advice-on-upskilling.md)
+    * [git教程与规范](附录/git.md)
