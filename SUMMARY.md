@@ -9,5 +9,6 @@
 * [(todo)lab-4：API层](Chapter4/README.md)
 * [(todo)lab-5：前端页面](Chapter4/README.md)
 * [附录](附录/README.md)
-    * [技能提升指南](附录/advice-on-upskilling.md)
+    * [【thoughts memo】技能提升指南](附录/advice-on-upskilling.md)
     * [git教程与规范](附录/git.md)
+    * [一个人必须是个天才才能做数学吗？](附录/Does%20one%20have%20to%20be%20a%20genius%20to%20do%20mathematics.md)
